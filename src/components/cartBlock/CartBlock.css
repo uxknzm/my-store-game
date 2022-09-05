@@ -1,0 +1,16 @@
+.cart__block {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.cart__block-total-prtice {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.cart__block-icon {
+    cursor: pointer;
+    position: relative;
+}
